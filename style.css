@@ -1,3 +1,19 @@
+h1 {
+    text-align: center;
+}
+#home-image{
+    width:200px;
+    height:auto;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+.home-intro{
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+}
+
 a {
     font-size:400px;
 }
