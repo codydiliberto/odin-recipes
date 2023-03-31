@@ -1,0 +1,11 @@
+a {
+    font-size:400px;
+}
+
+.recipe-links{
+    text-align: center;
+}
+
+.recipe-links a{
+    font-size:32px;
+}
