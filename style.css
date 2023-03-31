@@ -14,14 +14,11 @@ h1 {
     padding: 5px;
 }
 
-a {
-    font-size:400px;
-}
-
-.recipe-links{
+.links{
     text-align: center;
+    color:blue;
+
 }
 
-.recipe-links a{
-    font-size:32px;
+.links.burrito{
 }
