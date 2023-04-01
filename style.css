@@ -17,8 +17,12 @@ h1 {
 .links{
     text-align: center;
     color:blue;
+    width:50%;
+    height:auto;
 
 }
 
-.links.burrito{
+.home-images{
+    width:50%;
+    height:auto;
 }
