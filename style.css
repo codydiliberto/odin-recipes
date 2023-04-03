@@ -1,28 +1,46 @@
 h1 {
     text-align: center;
+    color: red;
 }
-#home-image{
-    width:200px;
-    height:auto;
-    margin-left:auto;
-    margin-right:auto;
-    display:block;
+#splash-image{
+    height:200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+.home-images{
+    width:auto;
+    height:200px;
+    margin:20px;
 }
 .home-intro{
     margin: auto;
     width: 50%;
     padding: 5px;
+    text-align: center;
 }
 
 .links{
     text-align: center;
-    color:blue;
-    width:50%;
-    height:auto;
-
+    display:flex;
+}
+.links a{
+    font-size: 24px;
 }
 
-.home-images{
-    width:50%;
-    height:auto;
+.flex-works{
+    display: flex;
+}
+
+.box-one{
+    box-sizing: border-box;
+    color:blue;
+    border:2px solid blue;
+    display:flex;
+}
+.box-two{
+    display: flex;
+    color:green;
+    border:2px dashed green;
 }
